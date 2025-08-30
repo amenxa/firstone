@@ -8,5 +8,6 @@ namespace gitproject
 {
     internal class Class1
     {
+        public static void test() { }
     }
 }
